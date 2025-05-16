@@ -8,7 +8,7 @@ This website is designed to provide a comprehensive overview of my professional 
 
 **Key Sections:**
 - **About Me:** Learn about my background, education, and interests.
-- **Experience:** Details on my work experience, including positions like Subject Tutor at UBC Okanagan and Vice President of Software at the UBCO AI Club.
+- **Experience:** Details on my work experience, including positions like Game Developer at The Centre of Culture and Technology at UBC Okanagan, Subject Tutor at The Student Learning Hub and Vice President of Software at the UBCO AI Club.
 - **Projects:** Explore my projects, such as the ML Food Waste Management Software and Chatbot Development, which highlight my skills in AI, Python, Java, and more.
 - **Contact:** Information on how to get in touch with me.
 
